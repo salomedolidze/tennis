@@ -288,7 +288,7 @@ img{
   
     
     background-size: cover;
-    background: transparent url(../photoo/fitness.jpg) center center fixed;
+    background: transparent url(..photoo/fitness.jpg) center center fixed;
 }
 
 .black-shad{
@@ -334,7 +334,7 @@ img{
     border-radius: 20px;
 }
 .atp-match{
-    background: transparent url(../photoo/top-background.png) no-repeat center center fixed;
+    background: transparent url(..photoo/top-background.png) no-repeat center center fixed;
    
     background-size: cover;
     padding: 100px 0;
